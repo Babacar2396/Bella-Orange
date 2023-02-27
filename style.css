@@ -68,7 +68,7 @@ body {
 }
 
 .container > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) {
-    background-image: url('Logo.png');
+    background-image: url('img/Logo.png');
     background-size: cover;
     block-size: 100%;
 }
@@ -93,7 +93,7 @@ body {
 }
 
 .container > div:nth-child(2) > div:nth-child(1) {
-    background-image: url('baniere.jpeg');
+    background-image: url('img/baniere.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     block-size: var(--banner-size);
@@ -169,7 +169,7 @@ body {
 }
 
 .container > div:nth-child(2) > div:nth-child(3) > div {
-    background-image: url('2telephones.png');
+    background-image: url('img/2telephones.png');
     background-size: cover;
     padding: 57% 22%;
     margin-top: -12rem;
@@ -205,7 +205,7 @@ body {
 }
 
 .container > div:nth-child(3) > :nth-child(2) > :nth-child(1) > div {
-    background-image: url('RectangleImg2.png');
+    background-image: url('img/RectangleImg2.png');
     background-size: cover;
     background-position: center center;
     padding: 70% 35%;
@@ -274,7 +274,7 @@ body {
 }
 
 .container > div:nth-child(4) > :nth-child(2) > div {
-    background-image: url('RectangleImg3.png');
+    background-image: url('img/RectangleImg3.png');
     background-size: cover;
     padding: 70% 35%;
 }
@@ -289,7 +289,7 @@ body {
 }
 
 .container > div:nth-child(5) > :nth-child(1) {
-    background-image: url('Logo.png');
+    background-image: url('img/Logo.png');
     background-size: cover;
     block-size: 7.5rem;
     width: 15rem;
@@ -301,7 +301,7 @@ body {
 }
 
 .container > div:nth-child(5) > :nth-child(2) > :nth-child(1) {
-    background-image: url('Vector.png');
+    background-image: url('img/Vector.png');
     block-size: 3rem;
     width: 3.5rem;
     background-size: cover;
@@ -316,12 +316,12 @@ body {
 }
 
 .container > div:nth-child(5) > :nth-child(2) > :nth-child(2) {
-    background-image: url('Vector (1).png');
+    background-image: url('img/Vector (1).png');
     margin-right: 2rem;
 }
 
 .container > div:nth-child(5) > :nth-child(2) > :nth-child(3) {
-    background-image: url('instagramicone.png');
+    background-image: url('img/instagramicone.png');
 }
 
 .container > div:nth-child(5) > :nth-child(3) {
